@@ -1,0 +1,13 @@
+{
+  "name": "docx-generator",
+  "version": "1.0.0",
+  "description": "Professional DOCX generator using docx-js",
+  "main": "generate.js",
+  "scripts": {
+    "start": "node generate.js"
+  },
+  "dependencies": {
+    "docx": "^8.5.0"
+  }
+}
+
